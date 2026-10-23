@@ -1,0 +1,7 @@
+
+Project Title: Personal Portfolio Website
+
+I developed a Personal Portfolio Website using HTML5 and CSS3 to showcase my education, technical skills, projects, and contact information. 
+The website includes Home, About Me, Skills, Projects, and Contact sections.
+I used Flexbox, CSS Grid, hover effects, and responsive CSS to create a dark-themed design with orange accents for desktop and mobile screens.
+This project helped me improve my understanding of semantic HTML, CSS styling, and responsive web design.
